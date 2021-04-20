@@ -1,3 +1,3 @@
-module github.com/JulioVecino/soap
+module github.com/go-lib-com/soap
 
 go 1.12
